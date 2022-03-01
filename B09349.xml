@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the most remarkable prodigies which happened at the birth, in the life, and the death of our blessed savior Jesus Christ. To which is added a lively description of the person of Christ.  Also, something concerning Agbarus, prince of the Edesseans; with his epistle to Christ; and Christ's letter in answer thereto collected out of the best historians, both divine and heathen / and illustrated with observations, both in verse and prose by W. L.</title>
+            <author>W. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09349</idno>
+            <idno type="STC">Wing L84A</idno>
+            <idno type="STC">ESTC R224607</idno>
+            <idno type="EEBO-CITATION">64551348</idno>
+            <idno type="OCLC">ocm 64551348</idno>
+            <idno type="VID">184625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184625)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the most remarkable prodigies which happened at the birth, in the life, and the death of our blessed savior Jesus Christ. To which is added a lively description of the person of Christ.  Also, something concerning Agbarus, prince of the Edesseans; with his epistle to Christ; and Christ's letter in answer thereto collected out of the best historians, both divine and heathen / and illustrated with observations, both in verse and prose by W. L.</title>
+                  <author>W. L.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Bradford ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Biography --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:184625:1" rendition="simple:additions"/>
+            <head>A Brief Account of the Moſt Remarkable PRODIGIES which happened at the Birth, in the Life, and at the Death of our Bleſſed Saviour JES<g ref="char:V">Ʋ</g>S CHRIST.</head>
+            <head type="sub">To which is Added, <hi>A Lively Deſcription of the Perſon of Chriſt.</hi> 
+               <add>16. March. 1695/6.</add>
+            </head>
+            <head type="sub">Alſo, Something concerning <hi>AGBAR<g ref="char:V">Ʋ</g>S,</hi> Prince of the <hi>Edeſſeans;</hi> with his Epiſtle to Chriſt; and Chriſt's Letter in Anſwer thereto. <hi>Collected out of the Beſt Hiſtorians, both Divine and Heathen. And illuſtrated with Obſervations, both in Verſe and Proſe.</hi>
+            </head>
+            <byline>By <hi>W. L.</hi>
+            </byline>
+            <div type="introduction">
+               <p>In the Days of <hi>Tiberius Caeſar</hi> the Emperor, <hi>Publius Lentulus</hi> being at that time Preſi<g ref="char:EOLhyphen"/>dent in <hi>Judea,</hi> wrote an Epiſtle to the Senate of <hi>Rome,</hi> Concerning <hi>Jeſus Chriſt,</hi> the Words whereof are theſe, as followeth,</p>
+               <q>
+                  <p>THere appeared in theſe our days, a Man of Great Virtue, called JESUS CHRIST, who is yet living amongſt us, and of the People is accepted for a Prophet, but his own Diſ<g ref="char:EOLhyphen"/>ciples call him the SON of GOD.</p>
+                  <p>He raiſeth the Dead, and cureth all manner of Diſeaſes.</p>
+               </q>
+               <lg>
+                  <l>Well might the Romans at ſuch Works admire:</l>
+                  <l>
+                     <hi>Jove</hi> and his Gods, could ne're ſo high aſpire.</l>
+                  <l>Thoſe Mighty Works he did declar'd him more</l>
+                  <l>Then all thoſe Idols <hi>Rome</hi> did then adore:</l>
+                  <l>The Dead revivd; Who could their Life reſtore,</l>
+                  <l>But he that firſt inſpir'd it by his power?</l>
+                  <l>How c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld the Blind in darkneſs longer ſtray,</l>
+                  <l>When th' glorious Sun diſpel'd it quite away?</l>
+                  <l>And what but Health could ſeize all Living Things,</l>
+                  <l>When ſhadow'd under his All-healing Wings?</l>
+               </lg>
+               <q>
+                  <figure>
+                     <figDesc>depiction of Christ with orb</figDesc>
+                  </figure>
+                  <p>In reproving he is ſevere, in admo<g ref="char:EOLhyphen"/>niſhing courteous, and fair-ſpoken, pleaſant in Speech, mixed with gravity.</p>
+                  <p>It cannot be remembred that any have ſeen him <hi>laugh,</hi> but many have ſeen him <hi>weep:</hi> In proportion of Body well ſhaped and ſtraight, his Hands and Arms very delectable to behold; in Speaking, very <hi>temperate, modeſt,</hi> and <hi>wiſe.</hi>
+                  </p>
+                  <p>A Man for his ſingular Beauty ſur<g ref="char:EOLhyphen"/>paſſing the Children of Men.</p>
+               </q>
+               <lg>
+                  <l>When all that's Good, moſt Perfect, and Divine,</l>
+                  <l>To dignifie our Nature did combine;</l>
+                  <l>When Innocence deſcended from Above,</l>
+                  <l>In brighteſt Glory and in pureſt Love;</l>
+                  <l>What elſe but Beauty could it ſelf diſplay,</l>
+                  <l>Far more illuſtrious then the cleareſt Day,</l>
+                  <l>And much more during: That one frowning blaſt,</l>
+                  <l>At might appreaching, makes to look agaſt.</l>
+                  <l>But this, un<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>angled by devouring Age,</l>
+                  <l>Unruffld by tempeſtuous Heat, an Age</l>
+                  <l>Continues in a perfect Symetry</l>
+                  <l>And will outlaſt boundleſs Eternity.</l>
+               </lg>
+            </div>
+            <div type="life_of_Christ">
+               <p>AFter that Jeſus Chriſt was made manifeſt unto all men through the working of Miracles, he drew unto him an innumerable ſort of Strangers, far diſtant from <hi>Judea,</hi> (afflicted with ſundry Diſeaſes, and every ſort of Maladies, being to recover their health;) of which King <hi>Agbarus</hi> Go<g ref="char:EOLhyphen"/>vernour of the famous Nations inhabiting beyond the River <hi>Euphrates,</hi> grievouſly diſeaſed in body, incurable by mans cunning, hearing the renowned Fame of Jeſus, the wonder<g ref="char:EOLhyphen"/>ful Works which he wrought, agreeable to the ſame, publiſh<g ref="char:EOLhyphen"/>ed of all men, wrote unto him by Letters, requiring deli<g ref="char:EOLhyphen"/>verance from his Diſeaſe; Jeſus (though not preſently) yield<g ref="char:EOLhyphen"/>ed unto his deſire, vouchſafed to anſwer him by an Epiſtle, That ſhortly he would ſend one of his Diſciples, which ſhould cure his Diſeaſe; promiſing withal, That he ſhould not only cure his Diſeaſe, but as many as belonged unto him. Which promiſe he not long after performed; for after his Reſurrection, <hi>Thomas,</hi> one of the twelve Apoſtles, ſent his Brother <hi>Thad<g ref="char:EOLhyphen"/>daus,</hi> accounted among the ſeventy Diſciples, by Divine Inſpiration, into the City of <hi>Edeſſa,</hi> to be Preacher of the Doctrine of Chriſt, by whom all things concerning the Pro<g ref="char:EOLhyphen"/>miſe of Chriſt were performed.</p>
+               <p>The Reader hath an approved Teſtimony of theſe Things in Writing, ta<g ref="char:EOLhyphen"/>ken out of the Recorded Monuments of the Princely City <hi>Edeſſa;</hi> for there are found enrowled in their publick Regiſtry things of Antiquity, and which were done about <hi>Agbarus</hi>'s time, and preſerved unto this Day; and copyed out of their Regiſtry, and tranſlated by us out of the <hi>Syrian</hi> Tongue in this manner.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="letter">
+                           <head>The EPISTLE of <hi>Agbarus</hi> unto our Saviour.</head>
+                           <p>AGbarus, <hi>Governour of</hi> Edeſſa <hi>unto Jeſus the good Saviour, ſhewing himſelf in</hi> Jeruſalem, <hi>ſendeth greeting; I have heard of thee, and thy Cures which thou haſt done without Medi<g ref="char:EOLhyphen"/>cine or Herbs; for (as the report goeth) thou makeſt the Blind to ſee; the Lame to go; the Lepers thou cleanſeſt; foul Spirits and Devils thou caſteſt out; and the long diſeaſed thou reſtoreſt to Health; and raiſeſt the Dead to Life. When that I heard theſe things of thee, I imagined with my ſelf, one of theſe two things, ei<g ref="char:EOLhyphen"/>ther that thou art God come from Heaven, and doſt theſe things, or the Son of God that bringeth theſe things to paſs. Wherefore by theſe my Letters, I beſeech thee to take the pains to come unto me, and that thou wilt cure this my grievous Malady, wherewith I am ſore vexed. I have heard moreover that the</hi> Jews <hi>murmur againſt thee, and go about to miſchief thee; I have here a little City, and an honeſt, which will ſuffice us both.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="letter">
+                           <head>
+                              <hi>The LETTER of Chriſt to</hi> Agbarus.</head>
+                           <p>
+                              <hi>AGbarus,</hi> bleſſed art thou, becauſe thou haſt believed in me, when thou ſaweſt me not; for it is written of me, <hi>That they which ſee me ſhall not believe in me, that they which ſee me not, may believe and be ſaved.</hi> Concerning that thou wroteſt unto me, that I ſhould come unto thee; I let thee underſtand, that all things touching my Meſſage are here to be fulfilled; and after the fulfilling thereof, I am to return again unto him that ſent me. But after my Aſcenſion, I will ſend one of my Diſciples unto thee, which ſhall cure thy Mal<g ref="char:EOLhyphen"/>lady, and reſtore Life to thee, and them that be with thee.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <div type="part">
+                  <head>PRODIGIES <hi>at the Birth of Chriſt.</hi>
+                  </head>
+                  <p>IN proſecution of my intended method, I firſt begin with the Birth of the moſt Holy and Immaculate Son of God, incarnate, which was (according to the beſt of Chronologers) in the 3849 Year of the Word, and in the 48th Year of <hi>Auguſtus Caeſar,</hi> ſecond Emperor of <hi>Rome,</hi> it was attended with many ſurprizing and remarkable Prodi<g ref="char:EOLhyphen"/>gies and Apparitions in the Heavens, and that after a more Terrible and Supernatural manner than ever happened in the preceding Ages, as the learned and warlike Jew <hi>Joſephus</hi> teſtifies in his Jewiſh Hiſtory; which Sights being unuſual, were therefore more Frightful to humane Nature, and put the Magi themſelves (to whom the Vulgar had ever re<g ref="char:EOLhyphen"/>courſe in things of Conſequence) to ſo great a non-plus, that they could make no evaſion, but were forced to con<g ref="char:EOLhyphen"/>clude (as well they might) That ſome more than ordinary Perſon ſhould ariſe. For beſides the Account given by the Evangeliſts, of an Angel appearing to the Shepherds, and the Star which directed the Wiſe Men to the Place of his Nativity, we have it recorded by <hi>Paulus Horatius,</hi> and <hi>Eu<g ref="char:EOLhyphen"/>tropius,</hi> then Secretaries to <hi>Auguſtus,</hi> as alſo by <hi>Euſebius,</hi> (a very credible Author) That a Fountain of pure Oyl was diſcovered in a publick Inn at <hi>Rome,</hi> iſſuing forth without intermiſſion for the ſpace of a whole Day. Which was a very notable Inſtance of the Coming of Him who was the Fountain of all Goodneſs. And they farther add, That at high Noon, on a clear and ſerene Day, the viſible Body of the Sun was environed with a Circle far more reſplendent than it ſelf.</p>
+                  <lg>
+                     <l>Bright <hi>Sol</hi> ſurrounded with that Glorious Light,</l>
+                     <l>Withdrew his Beams, and vaniſht out of ſight:</l>
+                     <l>The Righteous Son made that illuſtrious Day,</l>
+                     <l>Darkneſs at his ariſing fled away;</l>
+                     <l>Miſſed in th' Night of blind Obſcurity,</l>
+                     <l>Before we grop'd, but now we plainly ſee.</l>
+                  </lg>
+                  <p>
+                     <hi>Gameſter</hi> in his Eccleſiaſtical Hiſtory, affirms, That the very ſame Day that our Saviour Chriſt was born, a Temple at <hi>Rome,</hi> dedicated to the Goddeſs <hi>Pax,</hi> fell to the Ground; adding, that when it was firſt erected, the <hi>Romans</hi> conſul<g ref="char:EOLhyphen"/>ted the Oracle of <hi>Apollo,</hi> demanding how long it ſhould continue, which replyed, <hi>
+                        <g ref="char:V">Ʋ</g>ntil a Virgin ſhould bring forth a Child:</hi> Which they concluded impoſſible; and therefore that Temple ſhould never be demoliſhed; nevertheleſs they were groſly miſtaken, for at the bleſſed Virgin's bringing forth a Child (even the King of Heaven) it fell to the Earth, and became a ruinons heap. <hi>Lucas de Cais</hi> in his Chronicle of <hi>Spain,</hi> reports, That he found in the Antient Records of that Country, that by computation of Time, on the ſame Night wherein our Saviour was born, a Cloud appeared about Midnight, giving ſuch a reſplendent Light, that it was hard to diſtinguiſh the Night from a clear Day.
+<q>
+                        <l>So Heaven's bright Nuntio's did of old deſcend</l>
+                        <l>In Fiery Clouds, not able to contend</l>
+                        <l>With <hi>Ph<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>bus,</hi> till this moſt refulgent Cloud</l>
+                        <l>Chang'd Night to Day: Dim <hi>Sol</hi> amazed ſtood,</l>
+                        <l>Trembling for fear a far more Radiant Light</l>
+                        <l>Should him obſcure, and make him rule the Night.</l>
+                     </q>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>PRODIGIES <hi>in the Life of Chriſt.</hi>
+                  </head>
+                  <p>I Now proceed to ſpeak of Prodigies which occur'd in the Life of our bleſſed Saviour here upon Earth. Saint <hi>Jerome</hi> relates, That when <hi>Joſeph</hi> fled with the Virgin and her Son into <hi>Aegypt,</hi> all the Idols and Images of their Gods tumbled from their Altars to the Ground; and that their Oracles alſo ceaſed at that time, and never were heard to anſwer any more: (<hi>Rarities of the Creation,</hi> pag. 84.) About the firſt Year after the Birth of Chriſt, Armies were ſeen at <hi>Rome</hi> fighting in the Air. The Sun ſuffered a violent E<g ref="char:EOLhyphen"/>clipſe, after which a violent Tempeſt of Rain and Hail fol<g ref="char:EOLhyphen"/>lowed. And about the 12th Year, when Jeſus diſputed with the Jewiſh Doctors, a great and terrible Comet appeared. The Light of the Sun was apparently ſeen to fail at <hi>Rome.</hi>
+                     <q>
+                        <l>How could he longer caſt a glimmering Ray,</l>
+                        <l>And ſee the Fountain of his Light decay?</l>
+                     </q>
+                     <lb/> The Heavens ſeemed to burn. Fiery Beams fell from Hea<g ref="char:EOLhyphen"/>ven, and bloody Comets were ſeen in ſeveral places. The River <hi>Tiber</hi> overflowed <hi>Rome:</hi> Upon which ſee <hi>Horace</hi> in the 2d. <hi>Ode</hi> of the firſt Book, <hi>Jam ſatis terrae nivis,</hi> &amp;c. Thir<g ref="char:EOLhyphen"/>teen Cities in <hi>Africa</hi> were deſtroyed by an Earthquake. Noi<g ref="char:EOLhyphen"/>ſome and Peſtilential Flyes came in great Swarms into <hi>Ger<g ref="char:EOLhyphen"/>many. Caligula</hi> that Monſter of Mankind was born. King <hi>Agrippa</hi> was ſlain. <hi>Aguſtus Caeſar</hi> dyed. In the 22d. Year of his Age it rained Blood in <hi>Rome,</hi> which was a remarkable preſage of the effuſion of Chriſt's moſt precious Blood. Armies were ſeen again fighting in the Air, both in <hi>Rome</hi> and <hi>Pola<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d;</hi> and a Blazing Star like a Sword was diſcerned in the Skye: Soon after whith the Theatre erected by <hi>Pompey,</hi> was burnt down, and the City of <hi>Tiberius</hi> drowned. And in the ſame Year <hi>Tiberius</hi> became a moſt Bloody Tyrant, and committed all manner of Cruelty upon the <hi>Romans.</hi>
+                  </p>
+                  <lg>
+                     <l>Strange and Unuſual Sights, what elſe could be,</l>
+                     <l>While our Great Lord ſuſtain'd ſuch Miſery:</l>
+                     <l>Nature unhing'd, ſtood trembling in amaze,</l>
+                     <l>Dreading her Mover would her Beauty raze;</l>
+                     <l>Leaſt ſhe to her Confuſion ſhould return,</l>
+                     <l>And Fiery Flames become her Funeral Urn.</l>
+                     <l>Such ſtrange Events may juſtly ſeem to bode.</l>
+                     <l>A Wicked People, and an Angry God.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>PRODIGIES <hi>at the Death of Chriſt.</hi>
+                  </head>
+                  <p>IN the 34th Year of our Saviour's Life, <hi>Tiberius</hi> then be<g ref="char:EOLhyphen"/>ing Emperor of <hi>Rome,</hi> the Wicked <hi>Jews</hi> moſt barba<g ref="char:EOLhyphen"/>rouſly cruc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fied our Lord and Saviour Jeſus Chriſt, as pro<g ref="char:EOLhyphen"/>duc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſuch prodigious Effects, as were never ſeen in any Age before, and which were afterwards atteſted and con<g ref="char:EOLhyphen"/>firmed as well by <hi>Heathens</hi> as <hi>Chriſtians.</hi>
+                  </p>
+                  <p>At the time of his Death, a very great and thick Dark<g ref="char:EOLhyphen"/>neſs happened in the Day-time, which continued from Six till Nine, and yet the Sun ſuffered no Eclipſe, for the Moon was at Full, ſo that it was Miraculous, and Contrary to the Order of Nature, and could be no otherwiſe effected than by the Immediate Power of God, who juſtly deprived the Sun of its Light, whilſt his Son ignominiouſly ſuffered Death for the Sin of Man: <hi>Dionyſius</hi> the Areopagite being that Day in <hi>Athens,</hi> and ſeeing the Son in a total Eclipſe, and knowing (being well skill'd in Aſtrology, and the Courſe of the Heavens) that ſuch an Eclipſe muſt be contrary to the known rules of Nature, cryed out with a loud Voice, <hi>Either the World is at End, or the God of Nature ſuffers.</hi> Some Authors affirm, that the Wiſe Men of <hi>Athens</hi> were ſo much affrighted at this Prodigy, that they preſently cauſed an Al<g ref="char:EOLhyphen"/>tar to be built, and dedicated <hi>to the unknown God:</hi> and that St. <hi>Paul</hi> arriving there, cheeked their blind and ſuperſtitious Ignorance, declaring unto them, That Jeſus Chriſt the Re<g ref="char:EOLhyphen"/>deemer of the World was that unknown God, whereby he converted many of them to the Chriſtian Faith. Which alſo is a plain demonſtration that the Darkneſs was over the whole World, ſince it was at <hi>Athens,</hi> and other places far re<g ref="char:EOLhyphen"/>mote from <hi>Jeruſalem;</hi> yea, the Moon being at Full, and ha<g ref="char:EOLhyphen"/>ving no Light but what ſhe borroweth from the Sun, ſhe became moſt violently darkned.</p>
+                  <lg>
+                     <l>Heaven's brighteſt Darling thus bereav'd of Light,</l>
+                     <l>What could ſucceed but a moſt gloomy Night?</l>
+                     <l>Darkneſs his Mourning cloath'd the doleful Sky,</l>
+                     <l>And thickeſt Clouds became his Canopy:</l>
+                     <l>All things condole, but the moſt impious <hi>Jew,</hi>
+                     </l>
+                     <l>Who did his Hands in Spotleſs Blood imbrue.</l>
+                  </lg>
+                  <p>I might mention a great many more Prodigies, which I have met with in credible Authors, but am forced at preſent to omit them for brevity's ſake; deſiring that theſe, repreſented unto us in this ſmall Collection, may have that bleſſed effect upon every one of us, to make us more circumſpect in our ways. And if ſuch Terrible Apparitions happened at his Firſt Coming, far more Dreadful may be expected at his Second: For which God of his infinite Mercy prepare us all; <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licenſed, and Entred according to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed and Sold by <hi>J. Bradford,</hi> in <hi>Jewen-ſtreet,</hi> near <hi>Crowder</hi>'s-Well, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
